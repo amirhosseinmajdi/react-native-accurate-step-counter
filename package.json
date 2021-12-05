@@ -25,7 +25,7 @@
   },
   "homepage": "https://shikhar15606.github.io/react-native-accurate-step-counter/",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.66.0"
   },
   "dependencies": {
     "react-native-shake": "^4.0.2"
